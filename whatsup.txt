@@ -3,3 +3,5 @@ chat screen code
 last seen code
 Attachments(image,audio,video)
 hiding the lastseen
+add the audio call feature
+add the video call feature

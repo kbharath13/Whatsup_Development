@@ -5,3 +5,4 @@ Attachments(image,audio,video)
 hiding the lastseen
 add the audio call feature
 add the video call feature
+add the status so that the user can play train

@@ -6,4 +6,4 @@ hiding the lastseen
 add the audio call feature
 add the video call feature
 add the status feature
-adding group feature to add 100 users
+adding group feature to add 300 users
